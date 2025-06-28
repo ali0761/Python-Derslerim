@@ -19,6 +19,7 @@ Kalıtım (Inheritance): Mevcut sınıflardan yeni sınıflar türetme ve kod te
 Nasıl Çalıştırılır?
 Bu depodaki Python kodlarını çalıştırmak için bilgisayarınızda Python yüklü olması gerekmektedir. Kodları çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 Depoyu bilgisayarınıza klonlayın veya zip olarak indirin:
+'''
 Bash
 git clone https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git
 İndirdiğiniz dizine gidin:
@@ -28,6 +29,6 @@ cd REPO_ADINIZ
 Bash
 python degiskenler.py
 (Dosya isimleri kendi projenizdeki isimlere göre değişebilir.)
-
+'''
 Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın. Her türlü katkı ve geri bildirim değerlidir!
