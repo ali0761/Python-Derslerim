@@ -15,6 +15,8 @@ Sınıflar ve Nesne Yönelimli Programlama (OOP):
 Sınıf Tanımlama: Kendi veri tiplerinizi oluşturma.
 Nesne Oluşturma: Sınıflardan nesneler türetme.
 Kalıtım (Inheritance): Mevcut sınıflardan yeni sınıflar türetme ve kod tekrarını azaltma.
+Veri Tabanı:
+Temel düzeyde veri tabanı oluşturma, veri ekleme, silme, güncelleme, tablo işlemleri vb.
 
 Nasıl Çalıştırılır?
 Bu depodaki Python kodlarını çalıştırmak için bilgisayarınızda Python yüklü olması gerekmektedir. Kodları çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
