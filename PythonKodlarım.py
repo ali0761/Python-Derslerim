@@ -1,13 +1,6 @@
-# -*- coding: utf-8 -*-
-   # https://colab.research.google.com/drive/1-AqYk7nOUut3lJWigIllr-flYCWs3juG
-
-7%2 #açıklama satırı bu da mod alma işlemi
-
+```7%2 #mod alma işlemi
 7//2 #bölümü gösterir (3)
-
 7/2
-
-
 3**3
 
 10 < 11
@@ -2222,4 +2215,4 @@ update_user(1, "Mete Yagan", 39)
 # Sonuçları yazdır
 for user in get_users():
     print(user)
-
+```
